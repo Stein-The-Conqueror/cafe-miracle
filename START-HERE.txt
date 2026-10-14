@@ -1,0 +1,4 @@
+Café Miracle — single-page website concept
+
+Open index.html in a browser. Keep index.html, style.css and script.js together.
+For design scope and launch caveats, see ../README.md.
